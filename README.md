@@ -91,7 +91,7 @@ all'interno di questo pannello dobbiamo disabilitare entrambi i sistemi di raffr
 <!-->
 ![disabitazione controlli](./pic/subsystems.png)
 <!-->
-lo stesso per il secondo address:
+Successivamente possiamo loggare nell'ultimo address con le seguenti credenziali:
 <!-->
     address:
         reactor-main.area7331.lab
@@ -100,4 +100,15 @@ lo stesso per il secondo address:
     password:
         iloveyou
 <!-->
-con le seguenti credenziali possiamo perciò loggare, disabilitare i controlli ed aumentare la temperatura fino a farlo esplodere e recuperare la FLAG!!
+ed attivare l'override:
+<!-->
+![override](./pic/reactormain.png)
+<!-->
+così da ottenere questo:
+<!-->
+![override](./pic/override.png)
+<!-->
+ed infine la flag!!
+<!-->
+![flag redactata ovviamente](./pic/flag.png)
+<!-->
