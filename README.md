@@ -70,5 +70,12 @@ Possiamo continuare con lo stesso procedimento andando a disattivare gli speaker
 
 ![speakersoff](./pic/speakersoff.png)
 
-La situazione ora cambia perchè provando la stessa metodologia con i due indirizzi _"reactor-subsystems.area7331.lab"_ e _"reactor-main.area7331.lab"_ non avremmo accesso in quanto l'utente admin non è quello giusto
+La situazione ora cambia perchè provando la stessa metodologia con i due indirizzi _"reactor-subsystems.area7331.lab"_ e _"reactor-main.area7331.lab"_ non avremmo accesso in quanto l'utente admin non è quello giusto.
+<!-->
+Per risolvere quest livello basterà andare nel pannello precendente _"fw-admin-2.area7331.lab"_ ed entrare nella sezione logs.
+<!-->
+![logs](./pic/logs.png)
+<!-->
+all'interno di questi logs troveremo le azioni di modifica degli speakers e delle telecamere, ma soprattutto un tentativo di login dell'utente jwhite con un typo.
+
 
