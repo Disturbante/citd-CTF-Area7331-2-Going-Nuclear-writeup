@@ -14,5 +14,10 @@ Per accedere dobbiamo prima resettare la password inviando una richiesta all'url
 <!-->
 https://ctf-web-3.codeinthedark.dev/forgot
 <!-->
+inviando l'eid di George per tornare alla password di default.
 
-
+Una volta fatto questo possiamo loggare attraverso il link utilizzando le credenziali scritte sopra 
+<!-->
+https://ctf-web-3.codeinthedark.dev/login
+<!-->
+E vedere i documenti dell'utente
