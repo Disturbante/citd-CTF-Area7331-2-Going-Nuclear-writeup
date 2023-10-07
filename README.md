@@ -68,7 +68,7 @@ il risultato ottenuto è l'accesso e la disattivazione delle camere:
 
 Possiamo continuare con lo stesso procedimento andando a disattivare gli speakers:
 
-![speakersoff](./pic/speakerssoff.png)
+![speakersoff](./pic/speakersoff.png)
 
 La situazione ora cambia perchè provando la stessa metodologia con i due indirizzi _"reactor-subsystems.area7331.lab"_ e _"reactor-main.area7331.lab"_ non avremmo accesso in quanto l'utente admin non è quello giusto
 
