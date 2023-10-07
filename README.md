@@ -81,11 +81,15 @@ all'interno di questi logs troveremo le azioni di modifica degli speakers e dell
 attraverso questi logs possiamo facilemente capire le credenziali dell'utente:
 <!-->   
     address:
-        reactor-subsytems.area7331.lab
+        reactor-subsystems.area7331.lab
     username:
         jwhite
     password:
         iloveyou
+<!-->
+all'interno di questo pannello dobbiamo disabilitare entrambi i sistemi di raffreddamento così da causare l'esplosione
+<!-->
+![disabitazione controlli](./pic/subsystems.png)
 <!-->
 lo stesso per il secondo address:
 <!-->
