@@ -1,4 +1,4 @@
-# Writeup by Disturbante e [AleHelp](https://github.com/AleHelp)
+# Writeup by [Disturbante](https://github.com/Disturbante) e [AleHelp](https://github.com/AleHelp)
 
 Questa challenge è la seconda parte di AREA7331 (perciò avremo bisogno anche delle conoscenze della challenge precedente del quale al momento non viene pubblicato il writeup quindi verrannò date per scontate)
 <!-->
