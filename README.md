@@ -77,5 +77,23 @@ Per risolvere quest livello basterà andare nel pannello precendente _"fw-admin-
 ![logs](./pic/logs.png)
 <!-->
 all'interno di questi logs troveremo le azioni di modifica degli speakers e delle telecamere, ma soprattutto un tentativo di login dell'utente jwhite con un typo.
-
-
+<!-->
+attraverso questi logs possiamo facilemente capire le credenziali dell'utente:
+<!-->   
+    address:
+        reactor-subsytems.area7331.lab
+    username:
+        jwhite
+    password:
+        iloveyou
+<!-->
+lo stesso per il secondo address:
+<!-->
+    address:
+        reactor-main.area7331.lab
+    username:
+        jwhite
+    password:
+        iloveyou
+<!-->
+con le seguenti credenziali possiamo perciò loggare, disabilitare i controlli ed aumentare la temperatura fino a farlo esplodere e recuperare la FLAG!!
