@@ -60,7 +60,7 @@ Accedendo al secondo pannello e seguendo i passi precedenti cioè disattivare il
 
 ![firewall2off](./pic/mainframe-fwfirewalloff2.png)
 
-Ora provando ad accedere all'indirizzo _"cameras.area7331.lab"_ o _"speakers.camera7331.lab"_, le credenziali sarrannò errate però andando a rileggere il documento all'interno dell'account di _"George Williams"_, possiamo apprendere che sta utilizzando una tecnologi molto antiquata per i controlli, quindi l'idea più semplice per bypassare un form  di login è tramite una sqlinjection come in foto:
+Ora provando ad accedere all'indirizzo _"cameras.area7331.lab"_ o _"speakers.camera7331.lab"_, le credenziali sarrannò errate però andando a rileggere il documento all'interno dell'account di _"George Williams"_, possiamo apprendere che sta utilizzando una tecnologia molto antiquata per i controlli, quindi l'idea più semplice per bypassare un form  di login è tramite una sqlinjection come in foto:
 
 ![cmaerassqlioff](./pic/cameras-accessviaSqli.png)
 
