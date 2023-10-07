@@ -20,4 +20,11 @@ Una volta fatto questo possiamo loggare attraverso il link utilizzando le creden
 <!-->
 https://ctf-web-3.codeinthedark.dev/login
 <!-->
-E vedere i documenti dell'utente
+E vedere i documenti dell'utente.
+<!-->
+Abbiamo la foto di un cane chiamato Brutus (ci servirà più avanti)
+ed un documento dove ci sono informazioni fondamentali per accedere al mainframe.
+
+![info per entrare](./pic/mainframeinfo.png)
+
+seguendo queste info saremo in grado di entrare all'interno del mainframe e muoverci all'interno dei vari livelli
