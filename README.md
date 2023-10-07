@@ -1,1 +1,1 @@
-Questa challenge è la seconda parte di AREA7331 (perciò avremo bisgno anche delle conoscenze della challenge precedente del quale al momento non ho pubblicato il writeup quindi le darò per scontate)
+Questa challenge è la seconda parte di AREA7331 (perciò avremmo bisogno anche delle conoscenze della challenge precedente del quale al momento non viene pubblicato il writeup quindi verrannò date per scontate)
