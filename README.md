@@ -28,3 +28,22 @@ ed un documento dove ci sono informazioni fondamentali per accedere al mainframe
 ![info per entrare](./pic/mainframeinfo.png)
 
 seguendo queste info saremo in grado di entrare all'interno del mainframe e muoverci all'interno dei vari livelli
+<!-->
+Accedendo al seguente link:
+<!-->
+https://ctf-web-5.codeinthedark.dev/
+<!-->
+potremo vedere questo:
+<!-->
+![pannello di accesso](./pic/mainframelogin.png)
+<!-->
+inserendo le seguenti credenziali loggeremo nel primo livello:
+    address:
+        fw-admin-1.area7331.lab
+    user:
+        admin
+    password:
+        brutus
+<!-->
+Adesso siamo all'interno del primo pannello, perciò dobbiamo disabilitare il firewall(e così per tutti i pannelli successivi)
+e andare sull'health check dove troveremo l'address del secondo livello.
