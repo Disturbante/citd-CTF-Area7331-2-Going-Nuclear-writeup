@@ -1,3 +1,5 @@
+# Writeup by Disturbante e AleHelp
+
 Questa challenge è la seconda parte di AREA7331 (perciò avremo bisogno anche delle conoscenze della challenge precedente del quale al momento non viene pubblicato il writeup quindi verrannò date per scontate)
 <!-->
 Iniziamo la challenge esaminando il badge che ci viene fornito in questa foto:
